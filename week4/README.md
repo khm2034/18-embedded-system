@@ -2,7 +2,7 @@
 ### Project Name : *AI Speaker In Car*
 ----------------------
 ## **1. Overview**
-There are many AI speakers around us. I think that ai speakers replace traditional car speakers. why car speaker? cars rarely have devices that operate AI System. but I think, if ai speakers replace traditional car speakers, and put the platform, As a result, we can incorporate a variety of technologies into the car. therefore, i think that it is necessary to apply them to cars. so. I tried the project.
+There are many AI speakers around us. I think that ai speakers can replace traditional car speakers. why car speaker? cars rarely have devices that operate AI System. I selected car speaker. I think, if ai speakers replace traditional car speakers, and put the platform such as android, ios, tizen, window and etc, As a result, we can incorporate a variety of technologies into the car. therefore, i think that it is necessary to apply them to cars. so. I tried the project.
 
 ## **2. Process**
 Two processes operate simultaneously.
