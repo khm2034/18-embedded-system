@@ -6,11 +6,11 @@ There are two project. First project is Detect Humitidy and Working motor. it us
 ## 2. Implementation
 * ## Detect Humidity  
     This project uses DHT22 Module, LED Module, DC motor, and Fan Module.  
-    When humidity that is measured by DHT22 Module is over 70%, RED LED is turned on and, DC motor and Fan Module is operated 1 second. and then they are turned off.
+    When humidity that is measured by DHT22 Module is over 40%, RED LED is turned on and, DC motor and Fan Module is operated 1 second. and then they are turned off.
     this process is repeated endlessly.
 * ## Detect temperature  
     This project uses DHT22 Module, Water pump Module 
-    When temperature that is measured by DHT22 Module is over 25℃, water pump is operated 1 second. and then they are turned off.
+    When temperature that is measured by DHT22 Module is over 22℃, water pump is operated 1 second. and then they are turned off.
     this process is repeated endlessly.
 
 ## 3. Demo Video
