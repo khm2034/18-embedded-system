@@ -18,8 +18,8 @@ The project name is Smart farm. it uses a particular module to measure temperatu
     ![moni](./img/moni.JPG)  
     this thread is monitoring of sensor data. it monitor temperature and brightness on every 1ms. but It works differently in practice. because gettng the temperature data takes a long time.  
     So, if the temperature data that is monitered is greater than 20 degrees, send a signal to the fan thread that is asleep.
-    Likewise, if the brightness data that is monitered is greater than 2500 degrees, send a signal to the led thread that is asleep.
-    lastly, After 10 seconds, send ad signal to the send data thread.
+    Likewise, if the brightness data that is monitered is greater than 2500, send a signal to the led thread that is asleep.
+    lastly, Every 10 seconds, send a signal to the send data thread.
 * ## led thread
     ![led](./img/led.JPG)  
     this thread is turning on red led.  
