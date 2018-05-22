@@ -113,7 +113,7 @@ void *monitor(void *arg){
 		else{
 			is_led_on = 0; led_off();
 		}
-		if(temp >=25) {
+		if(temp >=20) {
 			is_fan_on = 1; pthread_cond_signal(&fan);
 		}
 		else{
